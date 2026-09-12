@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="ScriptHaul: YouTube transcripts, in bulk.">
+  <rect width="1280" height="360" fill="#ffffff"/>
+  <!-- the caption mark, centred -->
+  <rect x="596" y="62" width="88" height="88" fill="#2d5c47"/>
+  <rect x="616.6" y="107.4" width="46.8" height="9.6" rx="4.8" fill="#f2f4ed"/>
+  <rect x="624.9" y="123.9" width="30.2" height="9.6" rx="4.8" fill="#f2f4ed"/>
+  <text x="640" y="234" text-anchor="middle" fill="#23201a" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="78" letter-spacing="-1">ScriptHaul</text>
+  <text x="640" y="288" text-anchor="middle" fill="#6a6454" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="27">YouTube transcripts, in bulk.</text>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-2.svg" alt="ScriptHaul: YouTube transcripts, in bulk." width="100%">
+  <img src="banner-3.svg" alt="ScriptHaul: YouTube transcripts, in bulk." width="100%">
 </p>
 
 <p align="center">

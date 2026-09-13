@@ -28,7 +28,7 @@ Everything a developer touches is MIT-licensed in this organization. The service
 | [scripthaul-python](https://github.com/scripthaul/scripthaul-python) | Standard-library-only Python client | `pip install git+https://github.com/scripthaul/scripthaul-python` |
 | [agent-skills](https://github.com/scripthaul/agent-skills) | The skill that teaches Claude, Cursor, and other agents to use ScriptHaul | `npx skills add scripthaul/agent-skills --skill scripthaul-transcripts` |
 | [youtube-caption-formats](https://github.com/scripthaul/youtube-caption-formats) | The caption converters behind every download: json3, WebVTT, and TTML to text, SRT, VTT, Markdown, and timed JSON | `npm install github:scripthaul/youtube-caption-formats` |
-| [scripthaul-extension](https://github.com/scripthaul/scripthaul-extension) | The Chrome and Edge extension, one click from any YouTube page | Load unpacked, or the Chrome Web Store |
+| [scripthaul-extension](https://github.com/scripthaul/scripthaul-extension) | The Chrome and Edge extension, one click from any YouTube page | [Chrome Web Store](https://chromewebstore.google.com/detail/pcimcldhfdhjbgjbihmccbbehbpbinhf), or load unpacked |
 | [openapi](https://github.com/scripthaul/openapi) | The API's OpenAPI 3.1 description, generated from the router | Generate a client in any language |
 
 ## Thirty seconds
